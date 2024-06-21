@@ -110,7 +110,7 @@ Answer the following questions based on your understanding of the installation a
     2. automatically opens the context of the workspace you are working on,meaning you dont have to navigate to project manually 
     3. The integrated terminal ensures a consistent environment setup across different machines as part of your VS Code configuration, which is beneficial for teams.
     4. Integrate with VS Code tasks to automate common development workflows. For example, you can set up tasks to run build commands, lint code, or start a server, and then execute these tasks from the terminal.
-
+jgfhgfhgfhg
 
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
